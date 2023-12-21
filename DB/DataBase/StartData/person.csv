@@ -1,0 +1,10 @@
+Nationa_ID,"Address",Weight,FName,MName,LName,Birth_Date,Gender,E-mail,Phone,Last_DDate,DFlag,RFlag,EFlag,EID,Username,Password,is_Admin,Blood_Group,Rh_Factor
+0000000000,"Eastern Region, Dhahran, KFUPM, 23541",78,Ahmed,Abdullah,Alghamdi,2000/12/06,M,"Ahmed@gmail.com",0501597530,null,null,"1",null,null,ahmedg,alghamdi1234,null,A,+
+1111111111,"Eastern Region, Dhahran, KFUPM, 31261",74,Ahmed,,Shewaikan,2003/01/01,M,"s202026720@kfupm.edu.sa",0512687426,2023/12/03,1,1,1,A11111111,ahmed,shewaikanAhmed,1,A,+
+2222222222,"Eastern Region, Dhahran, KFUPM, 31261",98,Abdulghani,Fuad,Khayyat,2002/03/06,M,"s202039980@kfupm.edu.sa",0534140111,2023/12/03,1,1,1,A22222222,abdulghani,1a2b3c4d,1,A,+
+3333333333,"Westren Region, Makkah, Awali, 23541",111,Basil,Ahmed,Islam,1992/09/04,M,"basil@gmail.com",0548621793,2020/09/30,1,null,null,null,basil,basil1234,null,B,-
+4444444444,"Central Region, Riyadh, Thamamah, 23346",150,Nora,Abdullah,Tamimi,2011/10/10,F,"nora@gmail.com",0514796302,null,null,1,null,null,nora,nora1234,null,AB,+
+5555555555,"Westren Region, Makkah, Ajiad, 24351",63,Latifa,Mohammed,Khan,2004/03/06,F,"latifa@gmail.com",0503775538,2022/02/25,1,null,null,null,latifa,latifa1234,null,O,+
+6666666666,"Westren Region, Makkah, Shouqiyah, 24351",44,Rofida,Fuoad,Khayyat,2004/04/30,F,"rofida@gmail.com",0569874123,null,null,null,1,E66666666,rofida,rofida1234,null,B,-
+7777777777,"Eastern Region, Dhahran, KFUPM, 31261",75,Muhammad,Waheed,Aslam,1960/01/01,M,"mwaslam@kfupm.edu.sa",0138603980,null,null,null,1,E77777777,mwaslam,mwaslam1234,null,A,+
+8888888888,"Eastern Region, Dhahran, KFUPM, 31261",80,Omar,Salem,ALKhader,1960/01/01,M,"omer.khnbashi@kfupm.edu.sa",0138603512,null,null,null,1,E88888888,khanbashi,omer1234,null,A,+

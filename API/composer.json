@@ -1,0 +1,9 @@
+{
+    "name": "tada/mysql-api",
+    "description": "ICS321 Blood Donation Management Project",
+    "type": "project",
+    "require": {},
+    "config": {
+        "vendor-dir": "./lib/vendor/"
+    }
+}

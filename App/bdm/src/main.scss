@@ -1,0 +1,23 @@
+$primary: #e6464b;
+
+$info: #345F72;
+
+$display-font-family: "inter";
+
+#root, html {
+    background-color: #f2f2f2;
+    overflow-x: hidden; // hide vertical
+}
+
+p {
+    margin-left: 20px
+}
+
+#bb_0, #bb_1, #bb_2, #bb_3, #bb_4, #bb_5, #bb_6, #bb_7{
+    cursor:pointer;
+}
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+a {
+    text-decoration: none;
+}

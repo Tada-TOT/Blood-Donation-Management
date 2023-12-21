@@ -1,0 +1,5 @@
+port forwarding rule:
+
+netsh interface portproxy add v4tov4 listenport=8080 listenaddress=192.168.43.97 connectport=8080 connectaddress=192.168.143.97
+
+netsh interface portproxy show all
